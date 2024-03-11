@@ -1,0 +1,1 @@
+# Desafio utilizando React, Zod, Redux, Typescript
